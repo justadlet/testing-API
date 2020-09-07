@@ -1,8 +1,8 @@
 [
     {
         "name": "Gordon Ramsay",
-        "about": "",
-        "image": "",
+        "about": "British chef, restaurateur, writer, and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total and currently hold a total of seven.",
+        "image": "https://yt3.ggpht.com/a/AATXAJx5R7wPL-FXcTZvQ5wjgMNoj3F3wihflT_dKQVUdQ=s900-c-k-c0xffffffff-no-rj-mo",
         "_id":  "",
         "price": 1990,
         "rating": [0, 0, 1, 2, 4],
