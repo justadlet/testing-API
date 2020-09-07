@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Gordon Ramsay",
+        "about": "",
+        "image": "",
+        "_id":  "",
+        "price": 1990,
+        "rating": [0, 0, 1, 2, 4],
+        "recipes": 10,
+        "orders": 63,
+        "lessons": 12
+    }
+]
