@@ -1,11 +1,55 @@
 [
     {
+        "name": "Виктор Баринов",
+        "about": "British chef, restaurateur, writer, and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total and currently hold a total of seven.",
+        "image": "https://24smi.org/public/media/resize/800x-/2018/1/19/02.JPG",
+        "_id":  "",
+        "price": 9990,
+        "rating": [0, 0, 1, 10, 100],
+        "recipes": 10,
+        "orders": 63,
+        "lessons": 12
+    },
+    {
         "name": "Gordon Ramsay",
         "about": "British chef, restaurateur, writer, and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total and currently hold a total of seven.",
         "image": "https://yt3.ggpht.com/a/AATXAJx5R7wPL-FXcTZvQ5wjgMNoj3F3wihflT_dKQVUdQ=s900-c-k-c0xffffffff-no-rj-mo",
         "_id":  "",
         "price": 1990,
         "rating": [0, 0, 1, 2, 4],
+        "recipes": 10,
+        "orders": 63,
+        "lessons": 12
+    },
+    {
+        "name": "Thomas Keller",
+        "about": "is an American chef, restaurateur, and cookbook writer. He and his landmark Napa Valley restaurant, The French Laundry in Yountville, California, have won multiple awards from the James Beard Foundation, notably the Best California Chef in 1996, and the Best Chef in America in 1997.",
+        "image": "https://pbs.twimg.com/profile_images/560978808103108609/QglJ3j2z.jpeg",
+        "_id":  "",
+        "price": 2390,
+        "rating": [0, 0, 2, 3, 10],
+        "recipes": 8,
+        "orders": 93,
+        "lessons": 23
+    },
+    {
+        "name": "Alain Ducasse",
+        "about": "British chef, restaurateur, writer, and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total and currently hold a total of seven.",
+        "image": "https://yt3.ggpht.com/a/AATXAJx5R7wPL-FXcTZvQ5wjgMNoj3F3wihflT_dKQVUdQ=s900-c-k-c0xffffffff-no-rj-mo",
+        "_id":  "",
+        "price": 1490,
+        "rating": [0, 0, 3, 2, 10],
+        "recipes": 10,
+        "orders": 63,
+        "lessons": 12
+    },
+    {
+        "name": "Heston Blumenthal",
+        "about": "British chef, restaurateur, writer, and television personality. He was born in Johnstone, Scotland, and raised in Stratford-upon-Avon, England. His restaurants have been awarded 16 Michelin stars in total and currently hold a total of seven.",
+        "image": "https://cdn-b.william-reed.com/var/wrbm_gb_hospitality/storage/images/1/7/7/6/1186771-1-eng-GB/Heston-Blumenthal-wins-Lifetime-Achievement-Award_wrbm_large.png",
+        "_id":  "",
+        "price": 1990,
+        "rating": [0, 0, 1, 2, 9],
         "recipes": 10,
         "orders": 63,
         "lessons": 12
