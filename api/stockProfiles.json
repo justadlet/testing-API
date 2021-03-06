@@ -690,11 +690,6 @@
     "ticker": "DOW"
   },
   {
-    "name": "Domino",
-    "logo": " ",
-    "ticker": " "
-  },
-  {
     "name": "Darden Restaurants Inc",
     "logo": "https://finnhub.io/api/logo?symbol=DRI",
     "ticker": "DRI"
